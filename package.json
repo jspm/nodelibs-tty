@@ -1,7 +1,7 @@
 {
   "main": "./tty.js",
   "name": "jspm-nodelibs-tty",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./tty.js": {
       "node": "@node/tty"
